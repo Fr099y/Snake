@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 906e8296376594c3089a73d098054a2f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - smallBlock: {fileID: 181002, guid: fd314f565183b44a7aaedd27686ca488, type: 2}
+  - midBlock: {fileID: 126104, guid: 45e2286ced59b40b2855f8a1d9d0fba4, type: 2}
+  - bigBlock: {fileID: 188604, guid: 0f964a66eab814c2e81ec88d61243239, type: 2}
+  - biggestBlock: {fileID: 143458, guid: 0491a31b2e6c34325bda024824c75fcb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
